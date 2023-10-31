@@ -11,3 +11,11 @@ sky:
     access-key-id: sky.alioss.access-key-id
     access-key-secret: sky.alioss.access-key-secret
     bucket-name: sky-itcast
+  redis:
+    host: localhost
+    port: 6379
+    password: 1234
+    database: 10
+  wechat:
+    appid: wxb4398253c8806a11
+    secret: ea6699e1e2fefbce36da70eea9751189
